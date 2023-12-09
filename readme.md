@@ -3,3 +3,5 @@ yang perlu di perbaiki
 2. perbaikan tombol bantuan biar bisa konek ke file howToPlay.py
 3. ganti bg di file howToPlay.py pakek step bermaiin, buat ae di canva sama tombol back yang ngarah ke menu utama
 4. tambah button di file permainan.py di bawah button pause yang ngarah ke menu_utama.py
+
+link poster : https://www.canva.com/design/DAF2YZ4WLxg/VkSxX75qHu0OU10_dC6h9Q/edit
